@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hel</string>
+    <string name="hello">Hello</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="font_cinzel_regular">fonts/cinzel.ttf</string>
+    <string name="font_helvetica_light">fonts/helvetica.ttf</string>
+    <string name="your_name">Your name</string>
+</resources>
